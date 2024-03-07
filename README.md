@@ -1,6 +1,6 @@
-# timer_app
+# Dictionary
 
-A new Flutter project.
+An english dictionary application
 
 ## Getting Started
 
